@@ -1,0 +1,27 @@
+*~
+\#*\#
+
+.DS_Store
+**/.DS_Store
+._*
+**/._*
+
+.Trashes
+**/.Trashes
+.Spotlight-V100
+**/.Spotlight-V100
+.fseventsd
+**/.fseventsd
+.DocumentRevisions-V100
+**/.DocumentRevisions-V100
+.TemporaryItems
+**/.TemporaryItems
+
+*.swp
+*.swo
+*.swn
+
+# VS Code
+.vscode/
+
+.idea/e
